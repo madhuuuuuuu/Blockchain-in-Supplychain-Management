@@ -69,12 +69,15 @@ REFERENCES
 [1] Meidute-Kavaliauskiene I, Yıldız B, Çiğdem Ş, Činčikaitė R. An
 Integrated Impact of Blockchain on Supply Chain Applications.
 Logistics, 2021; 5(2): 33.
+
 [2] Wang Z, Wang T, Hu H, Gong J, Ren X, Xiao Q. Blockchain-based
 framework for improving supply chain traceability and information
 sharing in precast construction. Autom. Constr., 2020; 111: 103063.
+
 [3] Wang Y, Singgih M, Wang J, Rit M. Making sense of blockchain
 technology: How will it transform supply chains? Int. J. Prod. Econ.,
 2019; 211: 221-236.
+
 [4] Wang M, Wu Y, Chen B, Evans M. Blockchain and Supply Chain
 Management: A New Paradigm for Supply Chain Integration and
 Collaboration. Operations and Supply Chain Management and
